@@ -1,1 +1,1 @@
-# helloworld - a classic example
+# helloworld - integrated with slack.
